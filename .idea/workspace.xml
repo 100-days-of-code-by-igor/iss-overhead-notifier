@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d6fe534-e3ca-4c23-9a7f-d7d92d941008" name="Changes" comment="final iss project" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "igor-gorpinich"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/100-days-of-code-by-igor/iss-overhead-notifier",
+    "accountId": "39d06116-1170-4aa7-8813-70a17fcf33cf"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2jrlihcxLZ6NX8jfbnC3tcE7V8m" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_kanye.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main_sunset.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\igorg\PycharmProjects\iss-overhead-notifier" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-5b207ade9991-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d6fe534-e3ca-4c23-9a7f-d7d92d941008" name="Changes" comment="" />
+      <created>1722153205920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722153205920</updated>
+    </task>
+    <task id="LOCAL-00001" summary="final iss project">
+      <option name="closed" value="true" />
+      <created>1722675719896</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722675719896</updated>
+    </task>
+    <task id="LOCAL-00002" summary="final iss project">
+      <option name="closed" value="true" />
+      <created>1722675964583</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722675964584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="final iss project" />
+    <option name="LAST_COMMIT_MESSAGE" value="final iss project" />
+  </component>
+</project>
